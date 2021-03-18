@@ -10,7 +10,7 @@ https://www.packer.io/downloads
 unzip packer**
 
 ### 2.1 Add packer to PATH
-EXPORT PATH="<path-to-dir-with-packer>:$PATH"
+EXPORT PATH="**path-to-dir-with-packer**:$PATH"
 
 ## 3. Install power shell
 Depending on your distro chose your way:
